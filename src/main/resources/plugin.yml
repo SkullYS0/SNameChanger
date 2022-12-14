@@ -1,0 +1,9 @@
+name: SNameChanger
+version: '${project.version}'
+main: me.skully.namechanger.Main
+authors: [ skully ]
+website: skully.space
+commands:
+  namechanger:
+softdepend:
+  - PlaceholderAPI
